@@ -19,11 +19,13 @@ const LandingComponent = () => {
         src={Background}
         alt="Background"
       />
+      <a href="https://kolor.social">
       <img
         className="relative w-32 sm:w-48 pt-8 mx-[10vw] transition hover:scale-105 hover:drop-shadow-2xl duration-300"
         src={Logo}
         alt="Kolor logo"
       />
+      </a>
       <div className="relative flex flex-col lg:flex-row mx-[10vw]">
         <div className="w-12/12 sm:w-6/12 flex flex-col justify-center md:justify-left">
           <p className="text-center md:text-left pt-24 sm:pt-80 text-4xl sm:text-6xl font-display font-bold animate__animated animate__fadeInLeft">
