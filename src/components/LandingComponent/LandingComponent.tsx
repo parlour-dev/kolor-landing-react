@@ -28,7 +28,7 @@ const LandingComponent = () => {
       </a>
       <div className="relative flex flex-col md:flex-row mx-[10vw]">
         <div className="w-12/12 md:w-6/12 flex flex-col justify-center md:justify-left">
-          <p className="text-center md:text-left pt-24 md:pt-80 text-4xl md:text-6xl font-display font-bold animate__animated animate__fadeInLeft">
+          <p className="text-center md:text-left pt-24 md:pt-80 text-4xl md:text-6xl font-display animate__animated animate__fadeInLeft">
             The blockchain social media.
           </p>
 
@@ -40,7 +40,7 @@ const LandingComponent = () => {
             Launch Dapp
           </a>
         </div>
-        <div className="mt-24 md:mt-[10vw] lg:mt-0 w-12/12 flex justify-between">
+        <div className="pt-48 md:pt-24 lg:mt-0 w-12/12 flex justify-between">
           <img
             src={Bell}
             alt="Bell"
@@ -59,7 +59,7 @@ const LandingComponent = () => {
           <img
             src={Like}
             alt="Like"
-            className="animate__animated animate__backInDown animate__slow ml-[16vmax] w-[9vmax] absolute"
+            className="animate__animated animate__backInDown animate__slow ml-[16vmax] mt-[2vmax] w-[9vmax] absolute"
           />
           <img
             src={Bubble}
