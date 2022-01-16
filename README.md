@@ -1,47 +1,31 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://kolor.social">
+    <img src="https://user-images.githubusercontent.com/75305759/149655898-b0f5e811-b9e7-46b4-9832-14ce8300be63.png" height="200rem"/>
+  </a> 
+</p>
+<h1 align="center">
+  Kolor Landing Page ported to React <br /> <br />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30rem"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30rem"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30rem"/> <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" height="30rem"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30rem"/>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 💡 The idea
+A landing page explaining how <a href="https://app.kolor.social">Kolor Social Media Dapp</a> works and showing all of its features.
 
-## Available Scripts
+<img src="https://user-images.githubusercontent.com/75305759/149656200-1a61ef75-43e9-4347-a038-093ab7876231.png" alt="Website screenshot" width=100%/>
 
-In the project directory, you can run:
+## 🔗 Visit the website
+https://kolor.social
 
-### `npm start`
+## 💻 Tech stack
+* ReactJS
+* Gatsby
+* TailwindCSS
+* TypeScript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# kolor-landing-react
+## 🔨 How to build?
+1. Clone the repository <br />
+`git clone https://github.com/parlour-dev/kolor-landing-react`
+2. Install dependencies <br />
+`yarn`
+3. Run <br />
+`yarn start`
