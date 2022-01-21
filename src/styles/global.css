@@ -1,0 +1,26 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #050111;
+	margin: 0;
+	text-align: center;
+	color: white;
+	font-family: 'secondaryFont', 'Helvetica', 'Arial', 'Roboto', 'Lato', sans-serif;
+}
+
+@font-face {
+	font-family: "mainFont";
+	src: url(../../public/fonts/mainFont.otf);
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+  @font-face {
+	font-family: "secondaryFont";
+	src: url(../../public/fonts/secondaryFont.otf);
+	font-weight: normal;
+	font-style: normal;
+  }

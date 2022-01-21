@@ -26,6 +26,6 @@ https://kolor.social
 1. Clone the repository <br />
 `git clone https://github.com/parlour-dev/kolor-landing-react`
 2. Install dependencies <br />
-`yarn`
+`npm install`
 3. Run <br />
-`yarn start`
+`npm run start`

@@ -28,13 +28,13 @@ const LandingComponent = () => {
       </a>
       <div className="relative flex flex-col md:flex-row mx-[10vw]">
         <div className="w-12/12 md:w-6/12 flex flex-col justify-center md:justify-left">
-          <p className="text-center md:text-left pt-24 md:pt-80 text-4xl md:text-6xl font-display animate__animated animate__fadeInLeft">
+          <p className="text-center font-bold md:text-left pt-24 md:pt-80 text-4xl md:text-6xl font-display animate__animated animate__fadeInLeft">
             The blockchain social media.
           </p>
 
           <a
             href="https://app.kolor.social"
-            className="mx-auto md:mx-0 font-display mt-28 px- py-4 bg-[blue] w-64 text-center text-2xl rounded-full shadow-lg shadow-cyan-500/50 transition hover:scale-110 hover:drop-shadow-2xl duration-300 animate__animated animate__fadeInLeft animate__delay-1s"
+            className="font-bold mx-auto md:mx-0 font-display mt-28 px- py-4 bg-[blue] w-64 text-center text-2xl rounded-full shadow-lg shadow-cyan-500/50 transition hover:scale-110 hover:drop-shadow-2xl duration-300 animate__animated animate__fadeInLeft animate__delay-1s"
             style={{ boxShadow: "inset 0px 0px 0.6vmax 0.01vmax #00a2ff" }}
           >
             Launch Dapp
